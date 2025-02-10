@@ -1,0 +1,83 @@
+[
+    {
+        "Zalen": "kleedkamer 1",
+        "maandag": "Sparta jongens U12                                  KWB Kalken",
+        "dinsdag": "Sparta jongens U10           ",
+        "woensdag": null,
+        "donderdag": "Sparta jongens U10+U12             Thuisploeg zaalvoetbal",
+        "vrijdag ": "Club 68                         ",
+        "": ""
+    },
+    {
+        "Zalen": "kleedkamer 2",
+        "maandag": "VCK meisjes+dames",
+        "dinsdag": "Gaairakkers                       Hero VC",
+        "woensdag": "VCK meisjes + dames B",
+        "donderdag": "KWB Laarne                   VCK Dames",
+        "vrijdag ": "VCK meisjes + dames                                         ",
+        "": ""
+    },
+    {
+        "Zalen": "kleedkamer 3",
+        "maandag": "Boks heren                     Bezoekers zaalvoetbal         ",
+        "dinsdag": "VCK meisjes          ",
+        "woensdag": "Atletiek jongens                  Boks heren",
+        "donderdag": "Boks heren",
+        "vrijdag ": "Atletiek jongens          ",
+        "": ""
+    },
+    {
+        "Zalen": "kleedkamer 4",
+        "maandag": "Boks dames                                           ",
+        "dinsdag": "VCK meisjes          ",
+        "woensdag": "Atletiek meisjes              Boks dames",
+        "donderdag": "VCK meisjes                            Boks dames                               ",
+        "vrijdag ": "Atletiek meisjes                                                                    Karate dames ",
+        "": ""
+    },
+    {
+        "Zalen": "kleedkamer 5",
+        "maandag": "VCK jongens+heren                          ",
+        "dinsdag": "VCK jongens + heren",
+        "woensdag": "VCK jongens + heren",
+        "donderdag": "VCK jongens + heren   ",
+        "vrijdag ": "VCK jongens + heren ",
+        "": ""
+    },
+    {
+        "Zalen": "kleedkamer 6",
+        "maandag": "Sparta meisjes U12                 Thuisploeg zaalvoetbal",
+        "dinsdag": "Sparta meisjes U10                VCK dames ",
+        "woensdag": "VCK dames C",
+        "donderdag": "Sparta meisjes U10+U12+U14                                             Bezoekers zaalvoetbal",
+        "vrijdag ": "Sparta meisjes U16 ",
+        "": ""
+    },
+    {
+        "Zalen": "kleedkamer 7",
+        "maandag": null,
+        "dinsdag": null,
+        "woensdag": null,
+        "donderdag": "Femma Heren",
+        "vrijdag ": "Karate heren ",
+        "": ""
+    },
+    {
+        "Zalen": "kleedkamer 8",
+        "maandag": null,
+        "dinsdag": "Turnclub Kalken",
+        "woensdag": "Turnclub Kalken",
+        "donderdag": "Turnclub Kalken",
+        "vrijdag ": "Turnclub Kalken ",
+        "": ""
+    },
+    {
+        "Zalen": "kleedkamer 9",
+        "maandag": "Karate heren                      ",
+        "dinsdag": "Judo heren",
+        "woensdag": "               ",
+        "donderdag": "Bezoekers VOBOG",
+        "vrijdag ": "Judo heren ",
+        "": ""
+    }
+]
